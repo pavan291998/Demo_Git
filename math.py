@@ -17,3 +17,7 @@ def square(x)
 	return x*x 
 def msg()
 	return hello
+
+def fname()
+	return "Pavan";
+
