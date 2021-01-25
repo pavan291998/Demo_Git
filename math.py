@@ -14,7 +14,7 @@ def divide(x,y):
     return x/y;
 
 def square(x)
-<<<<<<< HEAD
+
 	return x*x 
 def msg()
 	return hello
@@ -22,9 +22,8 @@ def msg()
 def fname()
 	return "Pavan";
 
-=======
-	return x*x
+	
 
 def lname()
 	return "Patil"
->>>>>>> 6e1a7da (Lname function added in Branch)
+ 
